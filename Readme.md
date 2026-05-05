@@ -44,6 +44,6 @@ It enables students to **book meals, view menus, and track tokens**, while admin
 ## 🚀 Live Demo & Code
 
 - 🔗 [Live Link](https://nitr-mess-plus.vercel.app/)  
-- 📦 [GitHub Repository](https://github.com/sachinjaiswalnitr/NITR-SMART-MESS)  
+- 📦 [GitHub Repository](https://github.com/Bibeksah088/NITR-Smart-Mess) 
 
 ---
