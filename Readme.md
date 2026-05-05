@@ -1,4 +1,4 @@
-# 🍽️ NITR Mess Plus – Digital Mess Management System
+# 🍽️ NITR Smart Mess – Digital Mess Management portal
 
 **NITR Mess Plus** is a full-stack web application developed for **NIT Rourkela** to digitalize hostel mess operations.  
 It enables students to **book meals, view menus, and track tokens**, while administrators can **verify bookings** and manage daily records — ensuring a transparent and paperless mess experience.
